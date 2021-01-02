@@ -4,7 +4,7 @@ Repository for my submissions to the Manning liveProject for Lambda and Serverle
 
 ## Submissions
 
-- [Milestone 01](1-setup\README.md)
+- [Milestone 01](1-setup/README.md)
 
 ## Links
 
