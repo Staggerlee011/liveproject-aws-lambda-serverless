@@ -8,7 +8,7 @@ Repository for my submissions to the Manning liveProject for Lambda and Serverle
 
 ## Links
 
-[Automating Infrastructure for an E-commerce Website with Terraform and AWS](https://www.manning.com/liveproject/creating-a-whatsapp-notification-service-using-aws-lambda-and-a-serverless-framework)
+[Creating a WhatsApp Notification Service Using AWS Lambda and a Serverless Framework](https://www.manning.com/liveproject/creating-a-whatsapp-notification-service-using-aws-lambda-and-a-serverless-framework)
 
 ![manning live project](https://images.manning.com/360/480/resize/liveProject/8/d47e206-c59a-41eb-83a5-16ce37061f02/CreatingaWhatsAppNotificationServiceUsingAWSLambdaandaServerlessFramework.jpg)
 
